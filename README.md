@@ -1,4 +1,4 @@
-# DBM301_Group2
+# DBM301_Assignment_Group2
 # Members
 * Đinh Hoàng Lâm
 * Trần Duy Ngọc Bảo

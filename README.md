@@ -4,3 +4,7 @@
 * Trần Duy Ngọc Bảo
 * Nguyễn Cao Trí
 * Đặng Chí Thanh
+# Run demo
+```
+streamlit run demo.py
+```
